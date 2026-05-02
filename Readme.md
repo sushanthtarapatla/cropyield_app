@@ -24,3 +24,21 @@ This project predicts crop yield using machine learning techniques based on agri
 ---
 
 ## 📂 Project Structure
+CROP_YIELD_APP/
+│
+├── backend/
+│   ├── app.py
+│   ├── model/
+│   │   └── model.pkl       # Trained ML model
+│   ├── utils/
+│   │   └── helper.py       # Helper functions
+│   └── training.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+│
+├── requirements.txt        # Python dependencies
+├── .gitignore
+├── README.md
