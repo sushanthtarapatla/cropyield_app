@@ -138,7 +138,7 @@ This project is open-source and available under the MIT License.
 **Sushanth Tarapatla**
 
 * 📧 Email: [sushanthtarapatla01@gmail.com](mailto:sushanthtarapatla01@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/tarapatla-sushanth-259168293/
+* 🔗 LinkedIn: https://www.linkedin.com/in/sushanth-tarapatla-259168293/
 
 ---
 
